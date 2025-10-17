@@ -60,7 +60,10 @@ const Header = () => {
               {navLinks}
             </ul>
           </div>
-          <Link className="lg:text-xl font-semibold tracking-wide text-[lime] whitespace-nowrap">
+          <Link
+            to="/"
+            className="lg:text-xl font-semibold tracking-wide text-[lime] whitespace-nowrap"
+          >
             REACT <span className="text-[tomato]">X</span> FIREBASE
           </Link>
         </div>
