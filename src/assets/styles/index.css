@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+
+/* For Debugging */
+/* * {
+  border: 1px solid red;
+} */
