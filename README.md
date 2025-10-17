@@ -1,5 +1,6 @@
 # REACT X FIREBASE
 
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/aamamunszone/react-x-firebase)
 
 **A modern React + Firebase project with authentication, protected routes, and responsive design.**
@@ -91,3 +92,9 @@ Abdullah Al Mamun ( aamamunszone )
 - 🔗 GitHub : [@aamamunszone](https://github.com/aamamunszone)
 - 🔗 Email : [aamamunszone@gmail.com](mailto:aamamunszone@gmail.com)
 - 🔗 Portfolio : _(coming soon)_
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
